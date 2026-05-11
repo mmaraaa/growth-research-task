@@ -6,17 +6,17 @@ The primary tools installed for this setup were Claude Code and Codex. Both tool
 
 Initially, I attempted to install both tools directly through the Extensions Marketplace in Cursor. However, the required extensions were not available in the marketplace interface. As an alternative approach, I completed the installation through the terminal using CLI commands.
 
-Installed via terminal:
-`npm install -g @anthropic-ai/claude-code`
+Installed via terminal:  
+`npm install -g @anthropic-ai/claude-code`  
 `npm install -g @openai/codex`
 
 Both installations were completed successfully and verified through terminal execution. Screenshots of the successful installation and CLI launch process are attached below. 
 
-Screenshot for Claude installation:
-alt text
+Screenshot for Claude installation:  
+![alt text](claude.png)
 
 Screenshot for Codex installation:  
-alt text
+![alt text](codex.png)
 
 The login step was not fully completed because the available authentication methods required paid subscription access or API-based billing plans.
 
